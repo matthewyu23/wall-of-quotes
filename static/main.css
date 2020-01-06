@@ -80,5 +80,8 @@ body {
   }
 
   .footer-bottom {
-    color: blue;
+    font-size: 14px;
+    color: black;
+    padding: 10px 20px;
+    margin-bottom: 20px;
   }
